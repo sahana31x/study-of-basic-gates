@@ -1,0 +1,21 @@
+|exp1
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+c <= comb.DB_MAX_OUTPUT_PORT_TYPE
+d <= comb.DB_MAX_OUTPUT_PORT_TYPE
+e <= comb.DB_MAX_OUTPUT_PORT_TYPE
+x <= comb.DB_MAX_OUTPUT_PORT_TYPE
+y <= comb.DB_MAX_OUTPUT_PORT_TYPE
+z <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

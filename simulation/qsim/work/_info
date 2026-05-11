@@ -2,84 +2,80 @@ m255
 K3
 13
 cModel Technology
-Z0 dE:\Quartus II\EXP_1a\simulation\qsim
-vGATES_TT
-Z1 IILeaP>c=D6HhLbdhHg=fH3
-Z2 VGP<D^Uim_C;Rd5NGLW3ZN1
-Z3 dE:\Quartus II\EXP_1a\simulation\qsim
-Z4 w1704809710
-Z5 8GATES_TT.vo
-Z6 FGATES_TT.vo
+Z0 dC:\Users\acer\Downloads\Sakthi\simulation\qsim
+vexp1
+Z1 IDg1PUngTUcdP?@WQ4W=U13
+Z2 VYJ_7Ch8G5_zWiRIkZDj@h3
+Z3 dC:\Users\acer\Downloads\Sakthi\simulation\qsim
+Z4 w1778489436
+Z5 8exp1.vo
+Z6 Fexp1.vo
 L0 31
 Z7 OV;L;10.1d;51
 r1
 31
 Z8 o-work work -O0
-Z9 n@g@a@t@e@s_@t@t
 !i10b 1
-Z10 !s100 48Ff`l9fg2l<X;RN6haSP0
+Z9 !s100 eUzSQ59]dD48>J>3?JE;53
 !s85 0
-Z11 !s108 1704809712.196000
-Z12 !s107 GATES_TT.vo|
-Z13 !s90 -work|work|GATES_TT.vo|
+Z10 !s108 1778489438.383000
+Z11 !s107 exp1.vo|
+Z12 !s90 -work|work|exp1.vo|
 !s101 -O0
-vGATES_TT_vlg_check_tst
+vexp1_vlg_check_tst
 !i10b 1
-!s100 =8;B;zKHA@B`j>gGJF=ZY1
-IMbD=6YnVKHNGX]A25fC3o2
-VXY7<Y>XingjIli6mR^j;D0
+!s100 kWUb]X>AB3fh@H5P=O3C]2
+ImQAnQm[>3:<Hd8n0F?ejN3
+V]B:hA4D4:=RVdeIo8R58i2
 R3
-Z14 w1704809708
-Z15 8GATES_TT.vt
-Z16 FGATES_TT.vt
+R4
+Z13 8exp1.vt
+Z14 Fexp1.vt
 L0 59
 R7
 r1
 !s85 0
 31
-Z17 !s108 1704809712.310000
-Z18 !s107 GATES_TT.vt|
-Z19 !s90 -work|work|GATES_TT.vt|
+Z15 !s108 1778489438.450000
+Z16 !s107 exp1.vt|
+Z17 !s90 -work|work|exp1.vt|
 !s101 -O0
 R8
-n@g@a@t@e@s_@t@t_vlg_check_tst
-vGATES_TT_vlg_sample_tst
+vexp1_vlg_sample_tst
 !i10b 1
-!s100 :XLI]2T`CPFIX:Z7iF[Hk2
-I1kS[2I>LIY0bJF5H4<`mU3
-VNnCk00;TK6gLIf3@SWU0H3
+!s100 iDQB7d`P9ml2OOE:65nVM0
+I>ObQWmmWTf[GD?OUn@`Wl2
+V1SU;Xl`B0Z3Ji7ZSQMT9M1
 R3
+R4
+R13
 R14
-R15
-R16
 L0 29
 R7
 r1
 !s85 0
 31
-R17
-R18
-R19
-!s101 -O0
-R8
-n@g@a@t@e@s_@t@t_vlg_sample_tst
-vGATES_TT_vlg_vec_tst
-!i10b 1
-!s100 GXee[FVlRMa^z?h5X6M0c0
-IKenVdDVL2obic[Sn9foPE0
-VF=8en2O^H<^EWj0h0CQnc1
-R3
-R14
 R15
 R16
-L0 316
+R17
+!s101 -O0
+R8
+vexp1_vlg_vec_tst
+!i10b 1
+!s100 Ql<dSW`YRlnD>XPRGiPF@1
+I29jO7H4:G=lVnmnCL^]2F2
+VmUB2YTXILJ4NBmXf8eZ]f1
+R3
+R4
+R13
+R14
+L0 289
 R7
 r1
 !s85 0
 31
+R15
+R16
 R17
-R18
-R19
 !s101 -O0
 R8
-n@g@a@t@e@s_@t@t_vlg_vec_tst

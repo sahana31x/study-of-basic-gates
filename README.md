@@ -82,9 +82,11 @@ xnor(z,a,b);
 endmodule
 ```
 **Logic symbol & Truthtable**
+<img width="1920" height="1080" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/a9c214f0-a5da-4000-a466-8a0c3bcd5be2" />
 
 
 **RTL realization Output:** 
+<img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/3ca001c1-249c-4388-8d88-2839b5168638" />
 
 **RTL**
 
